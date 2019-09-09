@@ -10,6 +10,6 @@ end
 
 array.join(" ")
   
-puts sentence1
+puts array
   
 end
