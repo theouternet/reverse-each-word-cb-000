@@ -8,6 +8,6 @@ end
 
 sentence1.join(" ")
   
-  
+puts sentence1
   
 end
