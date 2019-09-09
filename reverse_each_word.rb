@@ -4,7 +4,7 @@ array = sentence1.split(" ")
 
 array2 = []
 
-sentence1.each do |word|
+array.collect do |word|
   array<<word.reverse
 end
 
