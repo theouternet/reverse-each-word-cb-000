@@ -5,11 +5,9 @@ array = sentence1.split(" ")
 array2 = []
 
 array.collect do |word|
-  array<<word.reverse
+  array2<<word.reverse
 end
 
-array.join(" ")
-  
-puts array
+array2.join(" ")
   
 end
