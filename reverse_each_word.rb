@@ -6,7 +6,7 @@ sentence1.each do |word|
   word.reverse
 end
 
-
+sentence1.join(" ")
   
   
   
